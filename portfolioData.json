@@ -1,0 +1,115 @@
+{
+  "contact": {
+    "name": "MahmoudReza Rostami",
+    "job": "Full Stack Java Developer",
+    "image": "mahmoudreza.jpg",
+    "avatar": {
+      "src": "mahmoudreza.jpg",
+      "alt": "quoc-dat-wears-a-mask"
+    },
+    "phone": "+989124038143",
+    "email": "rostami.mahmoudreza@gmail.com",
+    "linkedin": "linkedin.com/in/mahmoodreza-rostami-a06814a1",
+    "skype": "skype:live:rostami.mahmoudreza?chat",
+    "codepen": "https://codepen.io/rostami.mahmoudreza/",
+    "github": "https://github.com/rostami-mahmoudreza",
+    "intro": "My name is MahmoudReza,Experienced Full Stack Java Developer with 12 years in the industry and high-level proficiency in the following programs: Java, Javascript, SQL and ES6, expertise with HTML ,Reactjs and CSS seeks to establish a career as the Full Stack Developer for Renaissance Tech Developers. I am very familiar and experienced with Web Application Architecture and have worked with a good number of successful development teams.",
+    "linkResume":""
+  },
+  "skills": {
+    "Coding": [
+      "Java",
+      "Java Spring",
+      "Javascript",
+      "React.js",
+      "HTML",
+      "Bootstrap",
+      "CSS",
+      "SASS",
+      "SVN",
+      "Git"
+    ],
+    "Soft Skills": [
+      "Research",
+      "Teamwork",
+      "Communication",
+      "Time Management"
+    ],
+    "Language": [
+      "Persion",
+      "English",
+      "German"
+    ]
+  },
+  "experience": {
+    "work": [
+      {
+        "job": "Senior Java Developer",
+        "company": "Behsazan Mellat Company",
+        "time": "April 2016 - Present",
+        "description": "Maintaining and developing new features for online banking.Online Banking enables bank customers to conduct a range of financial transactions and offers various features such as viewing account balances, obtaining statements, checking recent transaction and making payments.The scope of the project is large-scale with 4 M active customers and about 15,000 concurrent users."
+      },
+      {
+        "job": "Senior Java Developer",
+        "company": "Fanap (Datx) Company",
+        "time": "November 2013 – March 2016",
+        "description": "developing new features for online trading.online trading enables  customers to meet user needs, asset management, sales orders, system customization and management operations."
+      },
+      {
+        "job": "Senior Java Developer",
+        "company": "NRDC Company",
+        "time": "January 2012 - September 2013",
+        "description": "Developed and customized applications based on new requirements."
+      },
+      {
+        "job": "Senior Java Developer",
+        "company": "Douran Company",
+        "time": "March 2010 - March 2014",
+        "description": "Develop and configure in the Compiere framwork.Compiere ERP+CRM is the leading open source ERP solution for Distribution, Retail, Manufacturing and Service industries.Create web version of Compiere from based GWT and Ext GWT"
+      },
+      {
+        "job": "Java Developer",
+        "company": "NIOPDC Company",
+        "time": "January 2006 - March 2010",
+        "description": "Developed and customized applications based on new requirements."
+      }
+
+    ],
+    "education": [
+      {
+        "job": "Bachelor of IT",
+        "company": "University of Iran - Borujerd",
+        "time": "graduated October  2009",
+        "description": "Bachelor Of Information Technology in Application Programming. Graduated with Distinction."
+      }
+    ]
+  },
+  "projects": [
+  {
+    "name": "Mellat Internet Banking",
+    "thumbnail": {
+      "src": "mellatinternet.jpg",
+      "alt": "https://ebanking.bankmellat.ir/ebanking/#/",
+      "url":"https://ebanking.bankmellat.ir/ebanking/#/"
+    },
+    "description": [
+      "Online Banking enables bank customers to conduct a range of financial transactions and offers various features such as viewing account balances, obtaining statements, checking recent transaction and making payments.The scope of the project is large-scale with 4 M active customers and about 15,000 concurrent users.",
+      "My main task in this project is design, development and support all phases of Software Development Life Cycle (SDLC) of project.",
+      "Designed and developed UI with React, HTML, JavaScript and CSS.",
+      "Implemented Spring MVC framework in the presentation tier for all the  essential control flow, business level validations and for communicating  with the business layer."
+    ]
+  },
+  {
+    "name": "Pasargad Trader",
+    "thumbnail": {
+      "src": "pasargad-trader.jpg",
+      "alt": "https://www.dttsonline.com/dtts/dtts/customer/login.jsp",
+      "url":"https://www.dttsonline.com/dtts/dtts/customer/login.jsp"
+    },
+    "description": [
+      "online trading enables  customers to meet user needs, asset management, sales orders, system customization and management operations.",
+      "My main task is also developing new features for online trading. "
+    ]
+  }
+]
+}
